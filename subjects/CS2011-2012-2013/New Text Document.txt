@@ -1,1 +1,5 @@
-jljjkjlj
+**Steps need to be Follows**
+- First of make package with lab 9 in your eclipse.
+-Then download and copy bool and full folder's source file to src folder.
+-Then also copy fool and bull images.
+-Enjoy day
