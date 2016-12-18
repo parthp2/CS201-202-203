@@ -32,6 +32,6 @@ The table is list the subjects.
 | CS1222        | [Relational Database][2] |  |
 | CS2154         | [Advance Topics in Computer Science][3] | |
 
-[1]: notes/introduction.md
-[2]: notes/sql-syntax.md
-[3]: notes/sql-aggregation.md
+[1]: subjects/CS2011-2012-2013
+[2]: Subjects/CS1222
+[3]: Subjects/CS2456
