@@ -1,0 +1,1 @@
+Please Copy and paste bull.png and full.png in your bin folder to get perfect view.
