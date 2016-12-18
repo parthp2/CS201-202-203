@@ -82,24 +82,11 @@ Cheating on assignments and exams will not be tolerated. All parties involved wi
 
 The schedule below is tentative and is subject to change.
 
-| Week # [date]      | Topic     | Notes |
+| Subject Code     | Subject    | Notes |
 | ------------------ | --- | --- |
-| 1  [08/27]         | [Introduction][1] | Set up environment |
-| 2  [09/03]         | [SQL Syntax][2] |  |
-| 3  [09/10]         | [Aggregation & Sub-queries][3] | Lab 1 |
-| 4  [09/17]         | [SQL Joins][4] | Homework 1 |
-| 5  [09/24]         | [SQL Functions][5] | Lab 2 |
-| 6  [10/01]         | [Advanced Queries][7] | |
-| 7  [10/08]         | [Data Manipulation][8] | Lab 3 |
-| 8  [10/15]         | [Mid term][6] | Homework 2 |
-| 9  [10/22]         | [Data definition language][9] | No class |
-| 10 [10/29]         | [Data definition language][9] |  |
-| 11 [11/05]         | [Advance Topic in SQL][15] | Lab 4 |
-| 12 [11/12]         | [Introduction to NoSQL][10] |  |
-| 13 [11/19]         | [MongoDB Aggregation][13] | Homework 3 |
-| 14 [11/26]         | Thanks Giving holiday | No class |
-| 15 [12/03]         | [Database Summary][12] | Homework 4 |
-| Final [12/10]      | [Final][16] |  |
+| CS201/202/203        | [Computer Programming and Fundamentals][1] | Bool and Full game |
+| CS1222        | [Relational Database][2] |  |
+| CS2154         | [Advance Topics in Computer Science][3] | Lab 1 |
 
 [1]: notes/introduction.md
 [2]: notes/sql-syntax.md
