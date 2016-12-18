@@ -1,30 +1,25 @@
-# Master-of-Science-
-This repository is for my Master of Science course. This repository  have sub-repository of my masters subjects and their projects.
+# Master of Science
+This repository is for my Master of Science course. This repository have my masters subjects and their projects.
 
-# Introduction to Database
+## Introduction
 
-## Course Overview
+- **Objective** The primary objective of this repository is to show my project work during my masters and other can see my project codes and use it for references.
 
-- **Objective** The primary objective of this course is to understand terms and concept of relational database and NoSQL database. Specifically, we will be learning MySQL and MongoDB.
-- **Expectation** Students are expected to have a working computer throughout the semester as we will be implementing programming in database in lecture. This can be a lab computer (with your USB) or your personal computer.
+## Personal Information
 
-## Logistics
-
-- **Instructor** Hsiang-Yu (Eric) Liao [rcliao01@gmail.com](mailto:rcliao01@gmail.com)
-- **Lecture**
-  * Saturday 12:00PM to 1:40PM (section 7 - lecture) and 1:40PM to 4:10PM (section 8 - laboratory)
-  * Saturday 4:30PM to 6:10PM (section 9 - lecture) and 6:10PM to 8:40PM (section 10 - laboratory)
-- **Office Hours**
-  * On-site: Saturday 11:00 AM to 12:00 PM, 4:10PM to 4:30PM and 8:40PM to 9:40PM
-  * Online 24/7
-- **Office Hours Location** Either at the classroom (E&T A309 or library -- see notes below)
-- **Location** E&T A309
-- **Text Book** None as we will have all notes hosted on Github.
-
-> As the university notice, we (part-time lecturers) can use the library room --
-Palmer Wing room 2097 -- for the office hour purpose.
-
-> Thus, if you don't find me at the classroom, please find me at library.
+- **Owner** Path Patel (P2) [patelparth622@gmail.com](mailto:patelparth622@gmail.com)
+- **Major** Computer Science 
+- **current School**
+  * California State University, Los Angeles [www.bapugkv.ac.in] (Master of Science)
+  * Los Angeles, California, United states
+- **Job Experience**
+  * Incisive web Solution pvt. Ltd. [www.bapugkv.ac.in] (As Software Developer)
+  * Gandhinagar, Gujarat, India
+- **Previous School**
+  * Shankersinh Vaghela Bapu Institute of Technology[www.bapugkv.ac.in] (Bachelors of Engineering)
+  * affiliated with Gujarat Technological University
+  * Gandhinagar, Gujarat, India
+- **All my work hosted on Github.
 
 ## Course Objectives
 
